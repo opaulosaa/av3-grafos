@@ -1,0 +1,38 @@
+# Dataset (arquivo grande, não versionar)
+steam-200k.csv
+
+# Arquivos raiz supersedidos pelo pacote core/
+/bfs.py
+/dfs.py
+/dijkstra.py
+/grafo.py
+/comunidades.py
+
+# Metadados do editor Claude Code
+.claude/
+
+# PDFs do projeto
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
