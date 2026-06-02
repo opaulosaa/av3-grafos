@@ -1,13 +1,6 @@
 # Dataset (arquivo grande, não versionar)
 steam-200k.csv
 
-# Arquivos raiz supersedidos pelo pacote core/
-/bfs.py
-/dfs.py
-/dijkstra.py
-/grafo.py
-/comunidades.py
-
 # Metadados do editor Claude Code
 .claude/
 
